@@ -26,4 +26,4 @@ https://discordapp.com/oauth2/authorize?client_id=BOTCLIENTIDHERE&scope=bot&perm
 Run index.js
 (Optionally run with something like PM2)
 
-You're good to!
+You're good to go!
