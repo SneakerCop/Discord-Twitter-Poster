@@ -1,0 +1,12 @@
+{  
+    "Twitter":{  
+       "consumer_key":"TYPEHERE",
+       "consumer_secret":"TYPEHERE",
+       "access_token":"TYPEHERE",
+       "access_token_secret":"TYPEHERE"
+    },
+    "Discord":{  
+       "token":"TYPEHERE",
+       "channel_id":"TYPEHERE"
+    }
+ }
