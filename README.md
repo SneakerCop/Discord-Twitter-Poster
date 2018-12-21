@@ -12,9 +12,9 @@ Install node.js (Download [here](https://nodejs.org/en/ "NodeJS"))
 
 Install these modules:
 
-request-promise-native
-discord.js
-twit
+* request-promise-native
+* discord.js
+* twit
 
 Replace the TYPEHERE fields in settings.json with all your info.
 
