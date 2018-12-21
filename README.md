@@ -16,10 +16,10 @@ Install these modules:
 * discord.js
 * twit
 
-Replace the TYPEHERE fields in settings.json with all your info.
+Replace the `TYPEHERE` fields in settings.json with all your info.
 
-Run index.js
-(Optionally run with something like PM2)
+Run `index.js`
+(Optionally with something like PM2)
 
 Invite the bot to your server using the following link (replace BOTCLIENTIDHERE with your client id in general info): 
 https://discordapp.com/oauth2/authorize?client_id=BOTCLIENTIDHERE&scope=bot&permissions=0
