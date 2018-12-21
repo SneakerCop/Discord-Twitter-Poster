@@ -1,0 +1,19 @@
+{
+  "name": "discord-to-twitter-poster",
+  "version": "1.0.0",
+  "description": "Reads messages sent into a discord channel and sends them to Twitter in the form of a post",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notmonkee/Discord-to-Twitter-Poster.git"
+  },
+  "author": "Monkee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/notmonkee/Discord-to-Twitter-Poster/issues"
+  },
+  "homepage": "https://github.com/notmonkee/Discord-to-Twitter-Poster#readme"
+}
