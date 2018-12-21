@@ -1,4 +1,3 @@
-
 var Twitter = require('twit')
 var Discord = require("discord.js")
 var Request = require("request-promise-native")
@@ -38,7 +37,7 @@ bot.on("message", message => {
                         client.post("media/metadata/create", meta_params, function(err, data, response) {
                             if (!err) {
                                 var params = {
-                                    status: `New picture by ${message.author.username} ID ${Math.floor((Math.ran$
+                                    status: `New success by ${message.author.username}`,
                                     media_ids: [mediaIdStr]
                                 }
                                 client.post("statuses/update", params, function(err, data, response) {
