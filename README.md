@@ -1,6 +1,4 @@
-
-
-Prerequisites:
+# Prerequisites #
 
 A Linux/Windows/OSX server that's always running. (I host this program on a free google cloud debian server)
 
