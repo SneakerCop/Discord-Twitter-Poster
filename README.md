@@ -20,12 +20,12 @@ Install these modules:
 * `npm install discord.js`
 * `npm install twit`
 
-Replace the `TYPEHERE` fields in settings.json with all your info.
+Replace the `TYPEHERE` fields in settings.json in a text editor with all your API info.
 
 Run `index.js`
 (Optionally with something like PM2)
 
-Invite the bot to your server using the following link (replace BOTCLIENTIDHERE with your client id in general info): 
+Invite the discord bot to your server using the following link (replace `BOTCLIENTIDHERE` with your client id in general info): 
 https://discordapp.com/oauth2/authorize?client_id=BOTCLIENTIDHERE&scope=bot&permissions=0
 
 You're good to go!
