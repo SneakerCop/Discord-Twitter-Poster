@@ -10,11 +10,15 @@ A Twitter developer account (Apply for one [here](https://developer.twitter.com/
 
 Install node.js (Download [here](https://nodejs.org/en/ "NodeJS"))
 
+Navigate to the install folder with `cd`
+
+Run the command `npm install`
+
 Install these modules:
 
-* request-promise-native
-* discord.js
-* twit
+* `npm install request-promise-native`
+* `npm install discord.js`
+* `npm install twit`
 
 Replace the `TYPEHERE` fields in settings.json with all your info.
 
