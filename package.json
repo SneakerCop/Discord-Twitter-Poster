@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/notmonkee/Discord-to-Twitter-Poster.git"
+    "url": "git+https://github.com/notmonkee/Discord-Twitter-Poster.git"
   },
   "author": "Monkee",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/notmonkee/Discord-to-Twitter-Poster/issues"
+    "url": "https://github.com/notmonkee/Discord-Twitter-Poster/issues"
   },
-  "homepage": "https://github.com/notmonkee/Discord-to-Twitter-Poster#readme"
+  "homepage": "https://github.com/notmonkee/Discord-Twitter-Poster#readme"
 }
