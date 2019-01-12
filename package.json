@@ -1,5 +1,5 @@
 {
-  "name": "discord-to-twitter-poster",
+  "name": "discord-twitter-poster",
   "version": "1.0.0",
   "description": "Reads messages sent into a discord channel and sends them to Twitter in the form of a post",
   "main": "index.js",
